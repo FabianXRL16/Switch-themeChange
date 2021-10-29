@@ -1,0 +1,14 @@
+{
+  "name": "switch",
+  "version": "1.0.0",
+  "description": "switch with css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Fabian Pacherres",
+  "license": "MIT"
+}
